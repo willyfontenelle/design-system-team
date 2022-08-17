@@ -1,6 +1,6 @@
 {
   "name": "@willyfontenelle/dsc-design-system-team",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "main": "dist/index.js",
   "private": false,
   "repository": {
